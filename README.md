@@ -1,0 +1,1 @@
+用于批量删除绝区零Mod配置文件中的ib = Resource_Bak_IB
